@@ -6,5 +6,5 @@ files:
 permissions:
   - object: /var/www/html/
     pattern: "**"
-    wner: centos
+    owner: centos
     mode: 777
